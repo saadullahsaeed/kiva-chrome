@@ -1,0 +1,15 @@
+{
+  "name": "Kiva Newest Loans",
+  "version": "0.2",
+  "manifest_version": 2,
+  "description": "A small handy extension to view the latest loans on Kiva.",
+
+  "browser_action": {
+    "default_icon": "images/icon.png",
+	"default_title": "Kiva",
+    "default_popup" : "kiva.html"
+  },
+"permissions": [
+  "http://api.kivaws.org/"
+]
+}
