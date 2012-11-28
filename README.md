@@ -1,4 +1,4 @@
 kiva-chrome
 ===========
 
-Kiva Newest Loans
+Chrome extension to list Newest Kiva Loans
